@@ -1,4 +1,4 @@
-## Hi there, I'm Rijfas  👋
+## Hi there, Rijfas Here  👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rijfas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
@@ -6,11 +6,11 @@
 
 ## passionate frontend developer from India !!
 
-- 🔭 TinkerHub Farook College campus lead
-- 🌱 I’m currently learning flutter
-- 👯 I’m looking to collaborate on flutter projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: btw i use arch 😎
+- 🔭 Co Founder of [TinkerHub Farook College](https://tinkerhub.farookcollege.ac.in) Campus Chapter
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on web development projects
+- 🥅 2023 Goals: Learn tRPC
+- ⚡ Fun fact: btw i love doughnuts 🍩
 
 ---
 
