@@ -4,7 +4,7 @@ RIJFAS
 $ role
 Full Stack Developer | Mentor | Hobbyist Youtuber
 $ projects
-Find me: <a href="https://rijfas.github.io/" style="color: #33ff00; text-decoration: none;">rijfas.github.io//a>
+Find me: <a href="https://rijfas.github.io/" style="color: #33ff00; text-decoration: none;">rijfas.github.io</a>
 Projects: <a href="https://rijfas.github.io/projects.html" style="color: #33ff00; text-decoration: none;">My Projects</a>
 Contact: <a href="mailto:rijfaskp@gmail.com" style="color: #33ff00; text-decoration: none;">Email</a>
 
